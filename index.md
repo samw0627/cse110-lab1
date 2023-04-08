@@ -3,6 +3,12 @@
 > We must design for the way people behave, not for how we would wish them to behave.
 
 Hello! My name is Sam. I'm a **prospective Masters student** at the University of Washington, studying [Masters of Science in Technological Innovation](https://gix.uw.edu/program/msti/). My research interests is in Human-Computer Interaction.
+## Table of Content
+[Programming Experirence](https://samw0627.github.io/cse110-lab1/#programming-experience)
+[Teaching Experience](https://samw0627.github.io/cse110-lab1/#teaching-experience)
+[Food](https://samw0627.github.io/cse110-lab1/#food)
+[Links](https://samw0627.github.io/cse110-lab1/#links)
+[To Do List](https://samw0627.github.io/cse110-lab1/#to-do-list)
 
 ## Programming Experience
 ```
