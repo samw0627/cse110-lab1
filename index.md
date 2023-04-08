@@ -1,4 +1,5 @@
 # Sam Wong
+! [Japan] (japan.jpeg)
 > We must design for the way people behave, not for how we would wish them to behave.
 
 Hello! My name is Sam. I'm a **prospective Masters student** at the University of Washington, studying [Masters of Science in Technological Innovation](https://gix.uw.edu/program/msti/). My research interests is in Human-Computer Interaction.
